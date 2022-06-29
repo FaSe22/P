@@ -2,9 +2,9 @@
 
 namespace FaSe22\P;
 
+use FaSe22\P\Commands\PCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use FaSe22\P\Commands\PCommand;
 
 class PServiceProvider extends PackageServiceProvider
 {

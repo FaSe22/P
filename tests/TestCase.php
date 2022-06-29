@@ -2,9 +2,9 @@
 
 namespace FaSe22\P\Tests;
 
+use FaSe22\P\PServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use FaSe22\P\PServiceProvider;
 
 class TestCase extends Orchestra
 {
